@@ -1,0 +1,232 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"append",
+				"appendTo〔function〕"
+			],
+			[
+				"main",
+				"main"
+			],
+			[
+				"get",
+				"getScript〔function〕"
+			],
+			[
+				"set",
+				"setContentView"
+			],
+			[
+				"li",
+				"link\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pi",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"installpa",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 245.0,
+		"history":
+		[
+			"git clone git://github.com/SublimeCodeIntel/SublimeCodeIntel.git",
+			"https://github.com/SublimeCodeIntel/SublimeCodeIntel",
+			"https://packagecontrol.io/installation"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/deep/threejs_ex/pro_2/js/main.js",
+		"/Users/deep/threejs_ex/pro_2/index.html",
+		"/Users/deep/threejs_ex/pro_1/css/style.css",
+		"/Users/deep/threejs_ex/pro_1/js/main.js",
+		"/Users/deep/threejs_ex/pro_1/resources/css/style.scss",
+		"/Users/deep/threejs_ex/pro_1/resources/js/default/app.js",
+		"/Users/deep/threejs_ex/pro_1/index.html",
+		"/Users/deep/threejs_ex/pro_1/test.html",
+		"/Users/deep/threejs_ex/pro_1/style.css",
+		"/Users/deep/threejs_ex/pro_1/js/app.js",
+		"/Users/deep/threejs_ex/pro_1/js/router.js",
+		"/Users/deep/threejs_ex/pro_1/main.js",
+		"/Users/deep/threejs_ex/three.js",
+		"/Users/deep/threejs_ex/index.html",
+		"/Users/deep/Library/Application Support/Sublime Text 3/Packages/User/Chrome.sublime-build",
+		"/Users/deep/Library/Application Support/Sublime Text 3/Packages/ConvertToUTF8/ConvertToUTF8.sublime-settings",
+		"/Users/deep/Library/Application Support/Sublime Text 3/Packages/User/instatgram_1.html",
+		"/Users/deep/Library/Application Support/Sublime Text 3/Packages/User/test_1.html",
+		"/Users/deep/ex.js",
+		"/Users/deep/Library/Application Support/Sublime Text 3/Packages/User/View In Browser.sublime-settings",
+		"/Users/deep/Library/Application Support/Sublime Text 3/Packages/View In Browser/View In Browser.sublime-settings"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 108.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/Chrome.sublime-build",
+	"project": "pro_2.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/threejs_ex/index.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 206.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
